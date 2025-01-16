@@ -5,4 +5,4 @@ Website to read manga
 https://mangakit.daseas.cloud/ [currently inactive]
 
 ## FrontEnd Url
-https://manga-kit-eight.vercel.app/
+https://manga-kit-eight.vercel.app/ [currently inactive]
